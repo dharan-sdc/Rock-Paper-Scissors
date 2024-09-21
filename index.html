@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>rock-paper-scissors</title>
+  <link rel="icon" type="icon" href="rps-src/icon.jpg">
+  <link rel="stylesheet" href="RPS-game.css">
+</head>
+
+<body>
+  <!-- 
+    10-rps  adding style and add to autoplaying option and improving a js
+  -->
+  <section class="game">
+    <h1>Rock Paper Scissors</h1>
+    <div class="play-btn">
+      <button class="move-btn js-rock-btn">
+        <img src="rps-src/rock.jpg" alt="rock" class="move-icon">
+      </button>
+
+      <button class="move-btn js-paper-btn">
+        <img src="rps-src/paper.jpg" alt="paper" class="move-icon">
+      </button>
+
+      <button class="move-btn js-scissors-btn">
+        <img src="rps-src/scissors.jpg" alt="scissors" class="move-icon">
+      </button>
+    </div>
+
+    <p class="js-choosemove finalN"></p>
+    <div id="mydiv">
+      <p class="js-result result"></p>
+
+    </div>
+    <p class="js-moves moves"></p>
+    <p class="js-score score"></p>
+
+    <p class="js-total-match"></p>
+
+    <div>
+      <button class="reset-score-btn js-reset-btn">Reset Score</button>
+
+      <button class="js-autoplay autoplay-btn" onclick="
+      autoplay();
+      changeAutostop();
+      ">Auto Play</button>
+    </div>
+
+    <p>Play Rock Paper Scissors with in Out of three moves</p>
+
+  </section>
+
+
+  <script src="RPS-game.js"></script>
+</body>
+
+</html>
