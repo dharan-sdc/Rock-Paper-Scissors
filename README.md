@@ -1,71 +1,107 @@
+# Rock Paper Scissors Game
 
-**Rock Paper Scissors Game**
+Welcome to the classic Rock Paper Scissors game! This project is built using HTML, CSS, and JavaScript. Play against the computer and see who emerges victorious!
 
-**Overview**
-Welcome to the classic Rock Paper Scissors game! This project is built using HTML, CSS, and JavaScript. Play against the computer and see who comes out on top!
+## Live Demo
 
-**Key Features**
-🎮 Interactive Gameplay: Select Rock, Paper, or Scissors and see the computer's choice and the result of each round instantly.
+Check out the live version of the project here: [Rock Paper Scissors Game Live](https://dharan-sdc.github.io/Rock-Paper-Scissors/)
 
-📱 Responsive Design: Enjoy a seamless experience on desktops, tablets, and mobile devices.
+## Key Features
 
-⏱️ Real-Time Results: Watch as your choice, the computer's choice, and the outcome of each round are displayed dynamically.
+🎮 **Interactive Gameplay**: Choose Rock, Paper, or Scissors and instantly see the computer's choice and the result of each round.
 
-🏆 Score Tracking: Keep an eye on your wins, losses, and ties throughout the game.
+📱 **Responsive Design**: Enjoy a seamless experience on desktops, tablets, and mobile devices.
 
-✨ Smooth Animations: Experience enhanced visuals with smooth animations for selecting and displaying choices.
+⏱️ **Real-Time Results**: View your choice, the computer's choice, and the outcome dynamically for each round.
 
-**Technologies Used**
+🏆 **Score Tracking**: Keep track of your total wins, losses, and ties.
 
-HTML: Structuring the game elements.
-CSS: Styling and animations.
-JavaScript: Game logic and user interaction handling.
+✨ **Smooth Animations**: Experience enhanced visuals with smooth animations for user actions and results.
 
-**Getting Started
-Prerequisites**
-A modern web browser is all you need to play the game. No additional installations required!
+## Technologies Used
 
-Installation
+- **HTML**: Structuring the game elements.
+- **CSS**: Styling and animations.
+- **JavaScript**: Handling game logic and user interactions.
 
-Clone the repository:
-bash
-git clone https://github.com/your-username/rock-paper-scissors-game.git
+## Getting Started
 
-Navigate to the project directory:
-bash
-cd rock-paper-scissors-game
+### Prerequisites
 
-Usage
-Open the index.html file in your web browser:
+A modern web browser is all you need to play the game. No additional installations are required.
 
-bash
-open index.html
+### Installation
 
-Make your move by selecting Rock, Paper, or Scissors. The game will show the computer's choice and the result of each round in real-time.
-Keep playing to see your total wins, losses, and ties.
+1. Clone the repository:
 
-**Contributing**
-We welcome contributions! If you have any ideas, suggestions, or issues, please create an issue or submit a pull request.
+   ```bash
+   git clone https://github.com/your-username/rock-paper-scissors-game.git
+   ```
 
-Steps to Contribute
-Fork the repository.
+2. Navigate to the project directory:
 
-Create a new branch for your feature or bugfix:
+   ```bash
+   cd rock-paper-scissors-game
+   ```
 
-**bash
-git checkout -b feature-name**
+3. Open the `index.html` file in your web browser:
 
-Implement your changes.
-Commit your changes with a descriptive message:
+   ```bash
+   open index.html
+   ```
 
-**bash
-git commit -m 'Add feature-name'**
+### How to Play
 
-Push your changes to the branch:
+1. Launch the game in your browser.
+2. Select Rock, Paper, or Scissors.
+3. The game will display the computer's choice and the result of the round in real-time.
+4. Keep playing to track your wins, losses, and ties.
 
-**bash
-git push origin feature-name
-Open a pull request.**
+## Live Demo
 
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+Check out the live version of the project here: [Rock Paper Scissors Game Live](https://dharan-sdc.github.io/Rock-Paper-Scissors/)
+
+## Screenshots
+
+![Screenshot 2025-01-04 093856](https://github.com/user-attachments/assets/fc3c5b2b-ee8d-4e8e-9edb-3128d31bbf5f)
+
+
+
+![Screenshot 2025-01-04 093913](https://github.com/user-attachments/assets/99a9bbdd-ec25-44a6-b56c-028657e1b267)
+
+
+## Contributing
+
+We welcome contributions! If you have ideas, suggestions, or find issues, feel free to create an issue or submit a pull request.
+
+### Steps to Contribute
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix:
+
+   ```bash
+   git checkout -b feature-name
+   ```
+
+3. Implement your changes.
+4. Commit your changes with a descriptive message:
+
+   ```bash
+   git commit -m 'Add feature-name'
+   ```
+
+5. Push your changes to the branch:
+
+   ```bash
+   git push origin feature-name
+   ```
+
+6. Open a pull request for review.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+Enjoy playing Rock Paper Scissors and may the odds be ever in your favor!
